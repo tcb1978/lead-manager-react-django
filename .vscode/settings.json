@@ -1,3 +1,8 @@
 {
-  "python.pythonPath": "/Users/mattheweldredge/.local/share/virtualenvs/lead-manager-react-django-b-Jtz-v-/bin/python"
+  "python.pythonPath": "/Users/mattheweldredge/.local/share/virtualenvs/lead-manager-react-django-b-Jtz-v-/bin/python",
+  "emmet.preferences": {
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    }
+  }
 }
